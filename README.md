@@ -31,7 +31,8 @@ https://github.com/2-75-Ranger-Regiment/markdown-wiki/blob/main/reddit-recruitin
 
 
 8: Paste the copied markdown into the body section of your Reddit post.
-![image](https://github.com/user-attachments/assets/7b4fb678-77ac-429f-a376-0d42a665f1cf)
+![image](https://github.com/user-attachments/assets/7bcf9680-8c52-4d75-a14b-9d83fb07bc2e)
+
 
 
 

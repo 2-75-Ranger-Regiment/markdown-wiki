@@ -7,17 +7,14 @@
 2: At the top, select the "Image & Video" post type.
 ![image](https://github.com/user-attachments/assets/30ad15a0-f321-43bd-89da-1b9a76508ca5)
 
-
-3: Upload the unit image. (the png is in this github repo also):
-
-https://github.com/2-75-Ranger-Regiment/markdown-wiki/blob/main/2-75UnitBannger.png
-![image](https://github.com/user-attachments/assets/62cc8746-4a92-4e53-ae9d-134be74553df)
-
-
-4: Set the Post Title to:
+3: Set the Post Title to:
 [A3] [Recruiting] [Server] 2nd Battalion, 75th Ranger Regiment
 ![image](https://github.com/user-attachments/assets/94eee8e2-245d-4693-91ce-4d15c946aa2f)
 
+4: Upload the unit image. (the png is in this github repo also):
+
+https://github.com/2-75-Ranger-Regiment/markdown-wiki/blob/main/2-75UnitBannger.png
+![image](https://github.com/user-attachments/assets/62cc8746-4a92-4e53-ae9d-134be74553df)
 
 5: Choose the "Recruiting" flair tag.
 
